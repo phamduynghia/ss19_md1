@@ -1,0 +1,12 @@
+.container {
+    text-align:center;
+    margin-top:50px;
+}
+
+/* #hidden-text {
+    display: block;
+} */
+
+.hidden {
+    display: none;
+}

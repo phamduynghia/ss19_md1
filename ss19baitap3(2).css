@@ -1,0 +1,16 @@
+.modal{
+    display: none;
+    position: fixed;
+}
+.modal-content{
+    background-color: beige;
+    margin: 20%;
+    padding: auto;
+    border: 1cm;
+    width: 50%;
+}
+.close.hover,
+.close.focus{
+    text-decoration: none;
+    cursor: pointer;
+}
